@@ -1,0 +1,17 @@
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/events/CargoRoutedEvent.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/events/CargoHandledEventData.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/domain/model/entities/CarrierMovement.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/package-info.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/events/CargoBookedEvent.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/domain/model/valueobjects/Location.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/model/TransitPath.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/Main.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/model/TransitEdge.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/interfaces/rest/CargoRoutingController.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/events/CargoRoutedEventData.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/domain/model/valueobjects/Schedule.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/shareddomain/events/CargoHandledEvent.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/domain/model/valueobjects/VoyageNumber.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/infrastructure/repositories/jpa/VoyageRepository.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/application/internal/queryservices/CargoRoutingQueryService.java
+/Applications/Workspaces/Personal/Books/PracticalDDD/final/Chapter4/routingms/src/main/java/com/practicalddd/cargotracker/routingms/domain/model/aggregates/Voyage.java

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.powermock:powermock-core:1.4.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.4.12/powermock-core-1.4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.4.12/powermock-core-1.4.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.4.12/powermock-core-1.4.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

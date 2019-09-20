@@ -1,0 +1,16 @@
+com/practicalddd/cargotracker/routingms/interfaces/rest/CargoRoutingController.class
+com/practicalddd/cargotracker/shareddomain/model/TransitEdge.class
+com/practicalddd/cargotracker/shareddomain/events/CargoBookedEvent.class
+com/practicalddd/cargotracker/shareddomain/events/CargoRoutedEventData.class
+com/practicalddd/cargotracker/routingms/domain/model/valueobjects/Location.class
+com/practicalddd/cargotracker/shareddomain/events/CargoHandledEvent.class
+com/practicalddd/cargotracker/routingms/domain/model/aggregates/Voyage.class
+com/practicalddd/cargotracker/routingms/domain/model/valueobjects/VoyageNumber.class
+com/practicalddd/cargotracker/routingms/domain/model/valueobjects/Schedule.class
+com/practicalddd/cargotracker/routingms/application/internal/queryservices/CargoRoutingQueryService.class
+com/practicalddd/cargotracker/routingms/domain/model/entities/CarrierMovement.class
+com/practicalddd/cargotracker/shareddomain/events/CargoHandledEventData.class
+com/practicalddd/cargotracker/routingms/infrastructure/repositories/jpa/VoyageRepository.class
+com/practicalddd/cargotracker/shareddomain/events/CargoRoutedEvent.class
+com/practicalddd/cargotracker/routingms/Main.class
+com/practicalddd/cargotracker/shareddomain/model/TransitPath.class
