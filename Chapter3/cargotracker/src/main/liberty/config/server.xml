@@ -1,0 +1,23 @@
+<server description="Cargo Tracker Server">
+    <featureManager>
+        <feature>webprofile-8.0</feature>
+    </featureManager>
+
+    <httpEndpoint httpPort="${default.http.port}" 
+    httpsPort="${default.https.port}" id="defaultHttpEndpoint"  host="*" />
+
+    <webApplication
+            id="cargotracker" location="cargotracker.war"
+            contextRoot="cargotracker" />
+
+    <!-- Declare the jar files for MySQL access through JDBC. -->
+    <dataSource id="cargotracker" jndiName="jdbc/cargotracker">
+        <jdbcDriver libraryRef="MySQLLib"/>
+        <properties databaseName="cargotracker"
+                    serverName="localhost" portNumber="3306"
+                    user="cargotracker" password="cargotracker" serverTimezone="EST"/>
+    </dataSource>
+    <library id="MySQLLib">
+        <file name="/Applications/Workspaces/Personal/Books/PracticalDDD/Tools/mysql/mysql-connector-java-8.0.11.jar"/>
+    </library>
+</server>
