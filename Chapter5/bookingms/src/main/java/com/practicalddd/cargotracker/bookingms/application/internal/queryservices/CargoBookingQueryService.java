@@ -41,6 +41,6 @@ public class CargoBookingQueryService {
      * @return Cargo
      */
     public Cargo find(String bookingId){
-        return cargoRepository.findByBookingId(bookingId);
+        return cargoRepository.findByBookingId(new BookingId(bookingId));
     }
 }
