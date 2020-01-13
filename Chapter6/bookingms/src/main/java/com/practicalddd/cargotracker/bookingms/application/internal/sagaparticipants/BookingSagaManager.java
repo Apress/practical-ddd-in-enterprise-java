@@ -16,6 +16,7 @@ import org.slf4j.LoggerFactory;
 
 import java.lang.invoke.MethodHandles;
 import java.util.UUID;
+import javax.inject.Inject;
 
 /**
  * The Booking Saga Manager is the implementation of the Booking saga.
@@ -28,7 +29,10 @@ public class BookingSagaManager {
 
     private final static Logger logger = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
+    @Inject
     private CommandGateway commandGateway;
+
+    @Inject    
     private CargoBookingService cargoBookingService;
 
     public BookingSagaManager(){}
